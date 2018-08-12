@@ -3,10 +3,10 @@ Services
 
 Prep work for deep dive on services.
 
-* BH notes and comments: https://docs.google.com/spreadsheets/d/1WSUEPk8Lodv3i2q0idfh_MS6qGX5X5hMK1qZ67RrzkE/edit#gid=468077940
-* BH proposal: https://docs.google.com/document/d/1So6VoNxlf8lfkzz9b0umjlPss__LmbxWnOA5ta3Gxd4/edit
+* [BH notes and comments](https://docs.google.com/spreadsheets/d/1WSUEPk8Lodv3i2q0idfh_MS6qGX5X5hMK1qZ67RrzkE/edit#gid=468077940)
+* [BH proposal](https://docs.google.com/document/d/1So6VoNxlf8lfkzz9b0umjlPss__LmbxWnOA5ta3Gxd4/edit)
 * Research from Carolyn and Colin
-  * https://docs.google.com/document/d/1vZ1vuox_Rtjk7ZQhjXZwZwYBJ_S1IdIxZ2s2Y9_uoVY/edit#heading=h.nacdlmuamgnl
+  * [Summary](https://docs.google.com/document/d/1vZ1vuox_Rtjk7ZQhjXZwZwYBJ_S1IdIxZ2s2Y9_uoVY/edit#heading=h.nacdlmuamgnl)
   * https://docs.google.com/spreadsheets/d/1kPmB34JwcN-vg8k8osC_oYJ1M7vbM6XObuCY1ym5SGg/edit?zx=khnmtsz2dhfi#gid=1474942824
   * https://docs.google.com/spreadsheets/d/1HAqn94d8S9ooYxpv4ZKK5ElY-P4-iSGDMcA1de4xmPs/edit#gid=0
   * https://docs.google.com/spreadsheets/d/1HAqn94d8S9ooYxpv4ZKK5ElY-P4-iSGDMcA1de4xmPs/edit#gid=593264435
